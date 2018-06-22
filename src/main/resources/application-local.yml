@@ -1,0 +1,8 @@
+server:
+  port: 8080
+qtum:
+  server: http://localhost:3889
+  username: aaa
+  password: aaa
+
+

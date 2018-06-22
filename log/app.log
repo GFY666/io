@@ -1,0 +1,33 @@
+2017-08-28 16:22:55,213 INFO (StartupInfoLogger.java:48)- Starting ApplicationTests on guofeiyandeMacBook-Pro.local with PID 20137 (started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:22:55,214 INFO (SpringApplication.java:597)- The following profiles are active: ${env}
+2017-08-28 16:22:56,600 INFO (StartupInfoLogger.java:57)- Started ApplicationTests in 16.652 seconds (JVM running for 17.247)
+2017-08-28 16:23:47,264 INFO (StartupInfoLogger.java:48)- Starting ApplicationTests on guofeiyandeMacBook-Pro.local with PID 20159 (started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:23:47,264 INFO (SpringApplication.java:597)- The following profiles are active: ${env}
+2017-08-28 16:23:48,531 INFO (StartupInfoLogger.java:57)- Started ApplicationTests in 16.538 seconds (JVM running for 17.149)
+2017-08-28 16:24:22,811 INFO (StartupInfoLogger.java:48)- Starting ApplicationTests on guofeiyandeMacBook-Pro.local with PID 20181 (started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:24:22,812 INFO (SpringApplication.java:597)- The following profiles are active: local
+2017-08-28 16:24:24,100 INFO (StartupInfoLogger.java:57)- Started ApplicationTests in 16.554 seconds (JVM running for 17.152)
+2017-08-28 16:25:45,245 INFO (StartupInfoLogger.java:48)- Starting ApplicationTests on guofeiyandeMacBook-Pro.local with PID 20188 (started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:25:45,246 INFO (SpringApplication.java:597)- The following profiles are active: local
+2017-08-28 16:25:46,552 INFO (StartupInfoLogger.java:57)- Started ApplicationTests in 16.601 seconds (JVM running for 17.204)
+2017-08-28 16:26:23,659 INFO (StartupInfoLogger.java:48)- Starting ApplicationTests on guofeiyandeMacBook-Pro.local with PID 20193 (started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:26:23,660 INFO (SpringApplication.java:597)- The following profiles are active: local
+2017-08-28 16:26:24,968 INFO (StartupInfoLogger.java:57)- Started ApplicationTests in 16.594 seconds (JVM running for 17.202)
+2017-08-28 16:27:01,510 INFO (StartupInfoLogger.java:48)- Starting ApplicationTests on guofeiyandeMacBook-Pro.local with PID 20200 (started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:27:01,511 INFO (SpringApplication.java:597)- The following profiles are active: local
+2017-08-28 16:27:02,908 INFO (StartupInfoLogger.java:57)- Started ApplicationTests in 16.671 seconds (JVM running for 17.281)
+2017-08-28 16:27:29,527 INFO (StartupInfoLogger.java:48)- Starting Application on guofeiyandeMacBook-Pro.local with PID 20201 (/Users/guofeiyan/work/qbao_api/target/classes started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:27:29,528 INFO (SpringApplication.java:597)- The following profiles are active: local
+2017-08-28 16:27:30,849 INFO (StartupInfoLogger.java:57)- Started Application in 16.537 seconds (JVM running for 27.034)
+2017-08-28 16:29:57,168 INFO (StartupInfoLogger.java:48)- Starting ApplicationTests on guofeiyandeMacBook-Pro.local with PID 20240 (started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:29:57,169 INFO (SpringApplication.java:597)- The following profiles are active: local
+2017-08-28 16:29:58,436 INFO (StartupInfoLogger.java:57)- Started ApplicationTests in 16.53 seconds (JVM running for 17.118)
+2017-08-28 16:31:44,027 INFO (StartupInfoLogger.java:48)- Starting ApplicationTests on guofeiyandeMacBook-Pro.local with PID 20271 (started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:31:44,027 INFO (SpringApplication.java:597)- The following profiles are active: local
+2017-08-28 16:31:45,301 INFO (StartupInfoLogger.java:57)- Started ApplicationTests in 16.546 seconds (JVM running for 17.164)
+2017-08-28 16:32:21,681 INFO (StartupInfoLogger.java:48)- Starting ApplicationTests on guofeiyandeMacBook-Pro.local with PID 20280 (started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:32:21,682 INFO (SpringApplication.java:597)- The following profiles are active: local
+2017-08-28 16:32:23,076 INFO (StartupInfoLogger.java:57)- Started ApplicationTests in 16.682 seconds (JVM running for 17.306)
+2017-08-28 16:32:59,824 INFO (StartupInfoLogger.java:48)- Starting Application on guofeiyandeMacBook-Pro.local with PID 20281 (/Users/guofeiyan/work/qbao_api/target/classes started by guofeiyan in /Users/guofeiyan/work/qbao_api)
+2017-08-28 16:32:59,825 INFO (SpringApplication.java:597)- The following profiles are active: local
+2017-08-28 16:33:01,556 INFO (StartupInfoLogger.java:57)- Started Application in 16.994 seconds (JVM running for 27.558)
